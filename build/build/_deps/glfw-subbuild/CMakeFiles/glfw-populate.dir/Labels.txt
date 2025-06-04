@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/b4a33a8530b06d60741931c4a9a31b86/glfw-populate.rule
+C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/4979f7b0af35f293d50c480b312f0f14/glfw-populate-complete.rule
+C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/3e78b41e2ee04e4b609509df0527c79f/glfw-populate-build.rule
+C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/3e78b41e2ee04e4b609509df0527c79f/glfw-populate-configure.rule
+C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/3e78b41e2ee04e4b609509df0527c79f/glfw-populate-download.rule
+C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/3e78b41e2ee04e4b609509df0527c79f/glfw-populate-install.rule
+C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/3e78b41e2ee04e4b609509df0527c79f/glfw-populate-mkdir.rule
+C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/3e78b41e2ee04e4b609509df0527c79f/glfw-populate-patch.rule
+C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/3e78b41e2ee04e4b609509df0527c79f/glfw-populate-test.rule
+C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/3e78b41e2ee04e4b609509df0527c79f/glfw-populate-update.rule

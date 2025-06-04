@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate"
+		},
+		{
+			"file" : "C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/b4a33a8530b06d60741931c4a9a31b86/glfw-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/4979f7b0af35f293d50c480b312f0f14/glfw-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/3e78b41e2ee04e4b609509df0527c79f/glfw-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/3e78b41e2ee04e4b609509df0527c79f/glfw-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/3e78b41e2ee04e4b609509df0527c79f/glfw-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/3e78b41e2ee04e4b609509df0527c79f/glfw-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/3e78b41e2ee04e4b609509df0527c79f/glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/3e78b41e2ee04e4b609509df0527c79f/glfw-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/3e78b41e2ee04e4b609509df0527c79f/glfw-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Sasha/Desktop/rubik-cube/build/_deps/glfw-subbuild/CMakeFiles/3e78b41e2ee04e4b609509df0527c79f/glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-populate"
+		],
+		"name" : "glfw-populate"
+	}
+}
